@@ -1,6 +1,5 @@
-# 💫 About Me:
+# 💫 Some Things About Me:
 Hello! My name is Kaelin Facun and I am an aspiring software engineer! I am currently a third-year at San Diego State University, in San Diego, CA and currently seeking any internships or careers within the tech or data finance industry.<br><br>📖 Languages I currently know: Python, C++/C, Java, HTML, JavaScript, Assembly<br><br>🧠 I’m currently working on my personal portfolio as I create projects on a monthly basis. Currently I'm interested in game development and have several projects through Unity of character movement, health regeneration, and environment damage.<br><br>🌱 I’m currently learning machine learning within computational linguistics and the basics of software  systems and computer architecture. Several of my projects for these topics can be seen under repos under the same name.<br><br>⚡ Fun fact about me is that I used to be a nursing major before I dived into my passion for programming and computers :)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kaelin Facun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kaelin Facun) 
